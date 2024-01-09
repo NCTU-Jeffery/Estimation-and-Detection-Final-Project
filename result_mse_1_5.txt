@@ -1,0 +1,5 @@
+RMSE for data/xlsx/SNR_1.xlsx is 3.075497
+RMSE for data/xlsx/SNR_2.xlsx is 3.141574
+RMSE for data/xlsx/SNR_3.xlsx is 3.255763
+RMSE for data/xlsx/SNR_4.xlsx is 3.380229
+RMSE for data/xlsx/SNR_5.xlsx is 3.501867
